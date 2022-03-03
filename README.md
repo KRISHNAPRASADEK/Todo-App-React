@@ -2,7 +2,7 @@
 
 live demo link : https://todo-app-react1.netlify.app/
 
-<h3>screenshots<h3>
+<h3>screenshots</h3>
 ![](https://github.com/KRISHNAPRASADEK/Todo-App-React/blob/master/public/1%20(1).png)
 <br/>
 ![](https://github.com/KRISHNAPRASADEK/Todo-App-React/blob/master/public/1%20(2).png)
